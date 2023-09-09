@@ -1,5 +1,5 @@
 {
-      "include": ["discord.ts", "twitch.ts"],
+      "include": ["discord.ts", "tiktok.ts", "twitch.ts"],
       "compilerOptions": {
             "module": "ES2022",
             "target": "ES2022",
