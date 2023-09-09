@@ -1,2 +1,2 @@
-location.href = "https://ohhellnaw.live";
+location.href = "https://twitch.tv/ohhellnaw_live";
 export {};
