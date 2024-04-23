@@ -64,6 +64,12 @@ body {
 	border: 1px solid var(--very-light-gray);
 	border-radius: 1rem;
 	cursor: pointer;
+	rotate: 0deg;
+	transition: rotate 2s ease;
+
+	&:hover {
+		rotate: 360deg;
+	}
 
 	& > h1 {
 		font-size: 2rem;
